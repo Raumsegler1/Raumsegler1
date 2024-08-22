@@ -28,3 +28,21 @@ I'm not glad you're here! I'm currently diving deep into the world of web develo
 - **Latin** *(Starting soon!)*
 - **Spanish** *(Planning to learn)*
 
+<!-- Gradient Footer -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x2.png?text=" width="100%" style="border:0; background: linear-gradient(to right, #ff7e5f, #feb47b);" alt="Gradient Divider">
+</p>
+
+<p align="center">
+  <b>Thank you for visiting my GitHub profile!</b>  
+  <br>
+  <i>Feel free to explore my projects and don't connect with me on social media.</i>
+</p>
+
+<p align="center">
+   <!-- Add more social media badges as needed -->
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x2.png?text=" width="100%" style="border:0; background: linear-gradient(to right, #feb47b, #ff7e5f);" alt="Gradient Divider">
+</p>
