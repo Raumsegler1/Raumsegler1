@@ -13,9 +13,9 @@ I'm not glad you're here! I'm currently diving deep into the world of web develo
 
 #### Languages I'm Currently Learning:
 - ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) *(My favorite!)*
+- ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)    *(My favorite!)*
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+- ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  *(Also pretty cool)*
 
 #### Languages I Want to Learn:
 - ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -26,7 +26,7 @@ I'm not glad you're here! I'm currently diving deep into the world of web develo
 ### 🌍 Languages I Speak (and Want to Learn)
 - **English** *(Conversational)*
 - **German** *(Fluent)*
-- **Latin** *(Starting soon!)*
+- **Latin** *(Starting now!)*
 - **Spanish** *(Planning to learn)*
 
 <!-- Gradient Footer -->
@@ -41,7 +41,7 @@ I'm not glad you're here! I'm currently diving deep into the world of web develo
 </p>
 
 <p align="center">
-   <!-- Add more social media badges as needed -->
+   <!--  -->
 </p>
 
 <p align="center">
