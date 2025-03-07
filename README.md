@@ -20,7 +20,6 @@ I'm not glad you're here! I'm currently diving deep into the world of web develo
 
 #### Languages I Want to Learn:
 - ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-- ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 
 ### 🌍 Languages I Speak (and Want to Learn)
