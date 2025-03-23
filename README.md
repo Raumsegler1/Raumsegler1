@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=1000&color=FF5733&background=68DDD8A3&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+My+GitHub+Page!+%F0%9F%91%8B" alt="Typing SVG">
-</p>
+# Welcome to my Github page!!!
 
-I'm not glad you're here! I'm currently diving deep into the world of web development and having fun along the way. Here's a little bit about me:
+I'm currently diving into the world of gui development using python and having fun along the way. Here's a little bit about me:
 
 ### 🌱 What I'm Up To
 - 🔭 **Currently Learning:** Fullstack Web Development with [The Odin Project](https://www.theodinproject.com/)
@@ -25,8 +23,8 @@ I'm not glad you're here! I'm currently diving deep into the world of web develo
 ### 🌍 Languages I Speak (and Want to Learn)
 - **English** *(Conversational)*
 - **German** *(Fluent)*
-- **Latin** *(Starting now!)*
-- **Spanish** *(Planning to learn)*
+- **Latin** *(started but not good yet!)*
+- **Spanish** *(Planning to learn maybe)*
 
 
 <p align="center">
