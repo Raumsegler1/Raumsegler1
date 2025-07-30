@@ -5,7 +5,7 @@ I'm currently diving into the world of gui development using python and having f
 ### 🌱 What I'm Up To
 - 🔭 **Currently Learning:** Fullstack Web Development with [The Odin Project](https://www.theodinproject.com/)
 - ⚡ **Fun Fact:** Octopuses are the closest animals we've found to aliens.
-- 🎯 **Interests:** Coding, problem-solving, writing, world-building, learning new things, and most importantly, having fun!
+- 🎯 **Interests:** Coding, problem-solving, design, writing, world-building, learning new things, and most importantly, having fun!
 
 ### 🛠️ Languages & Technologies
 
@@ -13,18 +13,16 @@ I'm currently diving into the world of gui development using python and having f
 - ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)    *(My favorite!)*
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  *(Also pretty cool)*
-- ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) *(Also cool)*
+- ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) *(pretty useful)*
 
 #### Languages/Frameworks I Want to Learn:
 - ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-- ![Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 
 ### 🌍 Languages I Speak (and Want to Learn)
 - **English** *(Conversational)*
 - **German** *(Fluent)*
 - **Latin** *(started but not good yet!)*
-- **Spanish** *(Planning to learn maybe)*
+- **Spanish** *(interested in learning, maybe)*
 
 
 <p align="center">
